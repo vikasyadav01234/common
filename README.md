@@ -1,12 +1,33 @@
-# React + Vite
+# Communion App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+The Communion App is a platform dedicated to connecting people of all faiths through events and community support. It fosters engagement and collaboration among diverse communities, promoting understanding and unity.
 
-Currently, two official plugins are available:
+## Features
+- **Home Page**: A welcoming interface that introduces the app and its mission.
+- **Event Listing**: A dynamic page that displays various community events, allowing users to filter by category and add new events.
+- **About Us**: Information about the app's mission, values, and how to get involved.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To get started with the Communion App, clone the repository and install the necessary dependencies:
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/vikasyadav01234/common.git
+cd common
+npm install
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Usage
+To run the application, use the following command:
+
+```bash
+npm run dev
+```
+
+Open your browser and navigate to `http://localhost:5173` to view the app.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+This project is licensed under the MIT License.
